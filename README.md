@@ -27,6 +27,7 @@ fichier qui n'est pas obligé d'être créer avant de lancer l'éxécutable et q
 des fichiers créés (".hfzip" et ".hftxt") sont ajouté automatiquement.
 
 Exemple : 
+
 -compréssion : ./huffman -c harry_potter.txt harry_potter
 
 -décompression : ./huffman -d harry_potter.hfzip harry_potterv2.txt
