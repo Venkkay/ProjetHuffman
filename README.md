@@ -26,6 +26,9 @@ Enfin, fichierA qui correspond au fichier que l'on souhaite encoder ou décoder 
 fichier qui n'est pas obligé d'être créer avant de lancer l'éxécutable et qui pour la compression ne necessite pas de mettre d'extension puisque les extensions 
 des fichiers créés (".hfzip" et ".hftxt") sont ajouté automatiquement.
 
-Exemple : 
+
+Exemple :
+
 -compréssion : ./huffman -c harry_potter.txt harry_potter
+
 -décompression : ./huffman -d harry_potter.hfzip harry_potterv2.txt
